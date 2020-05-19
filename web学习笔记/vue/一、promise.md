@@ -1,6 +1,6 @@
-## 一、promise
+## promise
 
-路径起别名：在build\webpack.base.conf.js里
+**路径起别名**：在build\webpack.base.conf.js里
 
 ```
 resolve: {
@@ -46,7 +46,9 @@ promise有三个状态：
 
 * reject:拒绝状态，当主动回调reject，就在拒绝状态，并且会回调.catch()
 
-promise面试题
+#### promise面试题
+
+
 
 ## 	
 
